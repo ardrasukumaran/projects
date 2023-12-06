@@ -1,0 +1,148 @@
+
+.relative1{ 
+    position: relative;
+    width: 1260px;
+    height: 500px;
+    background-color:rgb(239, 235, 224);
+    color:rgb(48, 59, 46);
+    float: left; 
+    
+}
+
+.relative2{ 
+    position: relative;
+    width: 1260px;
+    height: 950px;
+    background-color:rgb(239, 235, 224);
+    color:rgb(60, 88, 57);
+    float: left; 
+    
+}
+
+.relative3{
+    position: relative;
+    width: 1260px;
+    height: 250px;
+    background-color:rgb(48, 59, 46);
+    color:rgb(239, 235, 224);
+    float: left;
+
+}
+.absolute1{
+    position:absolute;
+    width: 400px;
+    height: 500px;
+    top: 0px;
+    right: 0px;
+    background-color:rgb(48, 59, 46);
+}
+.absolute2{
+    position:absolute;
+    width: 400px;
+    height: 500px;
+    top: 0px;
+    right: 0px;
+    background-color:rgb(48, 59, 46);
+}
+.head1{
+    padding-top: 170px;
+    padding-left: 90px;
+    padding-right: 50px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(48, 59, 46) ; 
+}
+.box{
+    background-color:rgb(48, 59, 46);
+    padding: 0px;
+    margin-top: 300px;
+    font-size: 50px; 
+    width: 50%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    color: rgb(239, 235, 224);
+    float: left;
+}
+
+.txt2{
+    position:absolute;
+    font-size: 14px;
+    color:rgb(48, 59, 46);
+    right: 700px;
+}
+
+.txt1{
+    position:relative;
+    font-size: 14px;
+    color:rgb(239, 235, 224);
+    top: 380px;
+}
+
+.txt3{
+    position: absolute;
+    color: rgb(239, 235, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    top: 130px;
+    line-height: 28.5px;
+}
+
+.txt4{
+    position: absolute;
+    color: rgb(239, 235, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    top: 220px;
+    line-height: 21.5px;
+}
+
+.txt5{
+    position: absolute;
+    color: rgb(239, 235, 224);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:rgb(48, 59, 46);
+    line-height: 21.5px;
+}
+
+.profileimg{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    height:330px;
+    width: 330px;
+}
+
+
+.box{
+    background-color:rgb(48, 59, 46);
+    padding: 10px;
+    border: 2px solid rgb(48, 59, 46);
+    margin: 3px;
+    font-size: 30px;   
+}
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    overflow: hidden;
+
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: rgb(48, 59, 46);
+    text-align: center;
+    padding: 14px 12px;
+    text-decoration:solid;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(48, 59, 46);
+    color: rgb(239, 235, 224);
+    border-radius:47%;
+  }
+  
